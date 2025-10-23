@@ -8,34 +8,34 @@
           <mxGeometry x="400" y="295" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="290" width="280" height="360" as="geometry" />
+          <mxGeometry x="90" y="290" width="280" height="360" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="247" width="370" height="620" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-15" value="① 数据预处理&#xa;振动信号 → STFT → 时频图" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="86.75" y="210" width="170" height="66" as="geometry" />
+          <mxGeometry x="136.75" y="210" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtiQDUskePUzLxZNRfSv-16" target="WtiQDUskePUzLxZNRfSv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;训练本地模型&#xa;发给用户端" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="112.625" y="306" width="118.25" height="66" as="geometry" />
+          <mxGeometry x="162.625" y="306" width="118.25" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 用户训练模型且数据上传&#xa;（差值更新 + 90%稀疏化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="86.75" y="402" width="170" height="66" as="geometry" />
+          <mxGeometry x="136.75" y="402" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;（FedAvg聚合）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="124.375" y="500" width="94.75" height="66" as="geometry" />
+          <mxGeometry x="174.375" y="500" width="94.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="123.5" y="596" width="96.5" height="48" as="geometry" />
+          <mxGeometry x="173.5" y="596" width="96.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="277" width="109.5" height="66" as="geometry" />
+          <mxGeometry x="538.125" y="277" width="109.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-21" value="⑥ 迁移微调&#xa;（逐层解冻(前4层) → 小样本微调)&#xa;生成个性化模型" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="500" y="373" width="185.75" height="84" as="geometry" />
