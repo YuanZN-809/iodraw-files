@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="290" width="230" height="340" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="280" width="330" height="470" as="geometry" />
+          <mxGeometry x="90" y="280" width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-15" value="① 数据预处理&#xa;振动信号 → STFT → 时频图" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="136.75" y="210" width="170" height="66" as="geometry" />
