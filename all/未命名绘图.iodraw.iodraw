@@ -51,9 +51,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WtiQDUskePUzLxZNRfSv-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="520" as="sourcePoint" />
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
