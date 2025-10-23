@@ -74,8 +74,8 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="370" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="580" width="60" height="30" as="geometry" />
+        <mxCell id="WtiQDUskePUzLxZNRfSv-52" value="联邦模型迁移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="518" width="50" height="252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
