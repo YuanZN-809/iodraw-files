@@ -16,11 +16,14 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="92" y="442" width="216" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;FedAvg聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="550" width="146" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118.5" y="696" width="163" height="48" as="geometry" />
+          <mxGeometry x="118.5" y="686" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="817" width="188" height="66" as="geometry" />
