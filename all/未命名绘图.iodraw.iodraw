@@ -22,16 +22,18 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;FedAvg聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="500" width="146" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-19" target="WtiQDUskePUzLxZNRfSv-16">
+        <mxCell id="WtiQDUskePUzLxZNRfSv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="620" as="sourcePoint" />
+            <mxPoint x="385.5" y="339" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="670" />
-              <mxPoint x="360" y="359" />
+              <mxPoint x="452.5" y="670" />
+              <mxPoint x="452.5" y="359" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118.5" y="646" width="163" height="48" as="geometry" />
+          <mxGeometry x="118.5" y="596" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="817" width="188" height="66" as="geometry" />
