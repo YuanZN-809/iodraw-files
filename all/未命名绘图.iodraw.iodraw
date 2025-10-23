@@ -38,13 +38,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.29;entryY=0.01;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="671" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-26" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.01;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-19" target="WtiQDUskePUzLxZNRfSv-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
