@@ -10,9 +10,6 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="100" y="290" width="230" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="290" width="260" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-15" value="① 数据预处理&#xa;振动信号 → STFT → 时频图" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="136.75" y="200" width="170" height="66" as="geometry" />
         </mxCell>
@@ -62,7 +59,7 @@
           <mxGeometry x="380" y="320" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-52" value="联邦模型迁移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="407" width="50" height="252" as="geometry" />
+          <mxGeometry x="630" y="308" width="50" height="252" as="geometry" />
         </mxCell>
         <mxCell id="SOGa1QsqeqGTUZz01XsL-1" value="故障诊断" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="394.63" y="585" width="96.5" height="48" as="geometry" />
