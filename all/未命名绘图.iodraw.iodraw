@@ -4,6 +4,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WtiQDUskePUzLxZNRfSv-15" value="① 数据准备&#xa;振动信号 → STFT → 时频图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="210" width="258" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;CNN训练本地模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="326" width="186" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="442" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;FedAvg聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="580" width="146" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" y="696" width="163" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="817" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-21" value="⑥ 迁移微调&#xa;冻前4层 → 小样本微调 → 个性化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78" y="933" width="243" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-15" target="WtiQDUskePUzLxZNRfSv-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-16" target="WtiQDUskePUzLxZNRfSv-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-17" target="WtiQDUskePUzLxZNRfSv-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.29;entryY=0.01;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-26" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.01;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-19" target="WtiQDUskePUzLxZNRfSv-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="271" y="671" />
+              <mxPoint x="271" y="417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-19" target="WtiQDUskePUzLxZNRfSv-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-20" target="WtiQDUskePUzLxZNRfSv-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
