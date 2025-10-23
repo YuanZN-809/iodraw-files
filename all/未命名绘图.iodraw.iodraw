@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="596" width="163" height="48" as="geometry" />
+          <mxGeometry x="123.5" y="596" width="96.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="111" y="687" width="188" height="66" as="geometry" />
