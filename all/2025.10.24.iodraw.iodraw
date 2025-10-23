@@ -78,7 +78,7 @@
           <mxGeometry x="400" y="518" width="50" height="252" as="geometry" />
         </mxCell>
         <mxCell id="SOGa1QsqeqGTUZz01XsL-1" value="故障诊断" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="950" width="96.5" height="48" as="geometry" />
+          <mxGeometry x="123.5" y="910" width="96.5" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
