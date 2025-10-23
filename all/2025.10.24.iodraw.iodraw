@@ -45,7 +45,7 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="102.25" y="687" width="139" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-21" value="⑥ 迁移微调&#xa;（逐层解冻(前4层) → 小样本微调 → 个性化模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="WtiQDUskePUzLxZNRfSv-21" value="⑥ 迁移微调&#xa;（逐层解冻(前4层) → 小样本微调 ）&#xa;生成个性化模型" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="46" y="783" width="251.5" height="84" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WtiQDUskePUzLxZNRfSv-15" target="WtiQDUskePUzLxZNRfSv-16" edge="1">
