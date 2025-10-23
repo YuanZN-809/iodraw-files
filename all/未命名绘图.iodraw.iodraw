@@ -11,7 +11,7 @@
           <mxGeometry x="107" y="326" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="442" width="216" height="66" as="geometry" />
+          <mxGeometry x="91.5" y="442" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;FedAvg聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="580" width="146" height="66" as="geometry" />
@@ -30,12 +30,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-16" target="WtiQDUskePUzLxZNRfSv-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="417" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WtiQDUskePUzLxZNRfSv-23" value="" style="startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-16" target="WtiQDUskePUzLxZNRfSv-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-17" target="WtiQDUskePUzLxZNRfSv-18">
           <mxGeometry relative="1" as="geometry">
