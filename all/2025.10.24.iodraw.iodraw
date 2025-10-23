@@ -8,7 +8,7 @@
           <mxGeometry x="400" y="295" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="290" width="280" height="360" as="geometry" />
+          <mxGeometry x="405.75" y="585" width="280" height="360" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="247" width="370" height="620" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;（FedAvg聚合）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="174.375" y="490" width="94.75" height="66" as="geometry" />
+          <mxGeometry x="174.375" y="480" width="94.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-19" value="模型是否收敛?" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="173.5" y="566" width="96.5" height="48" as="geometry" />
