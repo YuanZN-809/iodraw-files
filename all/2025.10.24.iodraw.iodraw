@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WtiQDUskePUzLxZNRfSv-47" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="31.75" y="680" width="280" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="280" height="360" as="geometry" />
         </mxCell>
@@ -16,7 +19,7 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtiQDUskePUzLxZNRfSv-16" target="WtiQDUskePUzLxZNRfSv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;CNN训练本地模型" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;CNN训练本地模型&#xa;发给用户端" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="85.25" y="306" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
@@ -54,9 +57,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-47" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="31.75" y="680" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WtiQDUskePUzLxZNRfSv-19" target="WtiQDUskePUzLxZNRfSv-20" edge="1">
           <mxGeometry relative="1" as="geometry">
