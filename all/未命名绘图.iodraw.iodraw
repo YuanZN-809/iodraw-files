@@ -19,6 +19,16 @@
         <mxCell id="WtiQDUskePUzLxZNRfSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="" tooltip="" id="WtiQDUskePUzLxZNRfSv-34">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-16">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="350" y="533" />
+                <mxPoint x="350" y="339" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="WtiQDUskePUzLxZNRfSv-18" value="④ 联邦聚合&#xa;FedAvg聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="500" width="146" height="66" as="geometry" />
         </mxCell>
@@ -50,15 +60,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="520" as="sourcePoint" />
-            <mxPoint x="400" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-43" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WtiQDUskePUzLxZNRfSv-42">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
