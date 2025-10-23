@@ -51,10 +51,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtiQDUskePUzLxZNRfSv-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WtiQDUskePUzLxZNRfSv-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="450" as="sourcePoint" />
-            <mxPoint x="480" y="450" as="targetPoint" />
+            <mxPoint x="308" y="532.76" as="sourcePoint" />
+            <mxPoint x="408" y="532.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-43" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WtiQDUskePUzLxZNRfSv-42">
