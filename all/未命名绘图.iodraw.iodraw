@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;CNN训练本地模型" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="107" y="306" width="186" height="66" as="geometry" />
+          <mxGeometry x="120" y="306" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="100" y="402" width="180" height="66" as="geometry" />
