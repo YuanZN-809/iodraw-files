@@ -14,7 +14,7 @@
           <mxGeometry x="107" y="306" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 隐私上传&#xa;差值更新 + 90%稀疏化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="92" y="402" width="216" height="66" as="geometry" />
+          <mxGeometry x="100" y="402" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtiQDUskePUzLxZNRfSv-18" target="WtiQDUskePUzLxZNRfSv-19">
           <mxGeometry relative="1" as="geometry" />
