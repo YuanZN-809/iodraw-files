@@ -66,7 +66,7 @@
           <mxGeometry x="31.75" y="680" width="280" height="250" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-49" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;联&lt;/font&gt;&lt;span style=&quot;font-size: 27px; background-color: initial;&quot;&gt;邦&lt;/span&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;学&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;习&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="402" width="90" height="158" as="geometry" />
+          <mxGeometry x="340" y="402" width="50" height="158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
