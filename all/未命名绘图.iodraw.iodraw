@@ -26,7 +26,7 @@
           <mxGeometry x="118.5" y="596" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-20" value="⑤ 模型下发&#xa;共享模型发回用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="106" y="817" width="188" height="66" as="geometry" />
+          <mxGeometry x="106" y="697" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-21" value="⑥ 迁移微调&#xa;冻前4层 → 小样本微调 → 个性化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="78.5" y="933" width="243" height="84" as="geometry" />
