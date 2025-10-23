@@ -59,7 +59,7 @@
           <mxGeometry x="380" y="320" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-52" value="联邦模型迁移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" parent="1" vertex="1">
-          <mxGeometry x="630" y="308" width="50" height="252" as="geometry" />
+          <mxGeometry x="20" y="320" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="SOGa1QsqeqGTUZz01XsL-1" value="故障诊断" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="394.63" y="585" width="96.5" height="48" as="geometry" />
