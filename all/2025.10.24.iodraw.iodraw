@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-16" value="② 本地训练&#xa;训练本地模型&#xa;发给用户端" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="190" y="306" width="90.88" height="66" as="geometry" />
+          <mxGeometry x="176.31" y="306" width="90.88" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WtiQDUskePUzLxZNRfSv-17" value="③ 用户训练模型且数据上传&#xa;（差值更新 + 90%稀疏化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="136.75" y="392" width="170" height="66" as="geometry" />
